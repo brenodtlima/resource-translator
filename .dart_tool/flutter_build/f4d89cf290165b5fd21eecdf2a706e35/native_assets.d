@@ -1,0 +1,1 @@
+ C:\\Users\\breno\\StudioProjects\\languages\\.dart_tool\\flutter_build\\f4d89cf290165b5fd21eecdf2a706e35\\native_assets.yaml: 
